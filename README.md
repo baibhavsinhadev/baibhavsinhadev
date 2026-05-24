@@ -1,21 +1,20 @@
-# Hi, I'm Baibhav 👋
+# Hi, I'm Baibhav Sinha
 
-💻 **Full Stack Developer (MERN)**
-🚀 Passionate about building modern, scalable web applications
-🎯 Currently looking for **Internship Opportunities**
-
----
-
-## 🧑‍💻 About Me
-
-I'm a **16-year-old Full Stack Developer** who enjoys building real-world web applications using the MERN stack.
-I love turning ideas into **fast, functional, and user-friendly products**.
-
-I focus on writing **clean code, scalable backend APIs, and modern React interfaces**.
+**Full Stack Developer (MERN)**
+**Fast Builder | Chaotic but Productive**
+I build custom full-stack web apps for businesses
 
 ---
 
-## ⚙️ Tech Stack
+## About Me
+
+I'm a developer who started with a genuine interest in computers and turned it into building real-world applications.
+I enjoy creating complete systems — from frontend UI to backend logic — not just parts of it.
+I focus on **fast execution, clean logic, and bug-free builds**.
+
+---
+
+## Tech Stack
 
 **Frontend**
 
@@ -35,6 +34,8 @@ I focus on writing **clean code, scalable backend APIs, and modern React interfa
 
 * MongoDB
 * Mongoose
+* PostgreSQL
+* Neon
 
 **Tools**
 
@@ -44,28 +45,51 @@ I focus on writing **clean code, scalable backend APIs, and modern React interfa
 
 ---
 
-## 🚀 What I Build
+## What I Do
 
-* Full Stack MERN Applications
-* Authentication Systems (JWT / Sessions)
-* REST APIs
-* Responsive Modern UI
-* Dashboard & Admin Panels
+* Build **custom full-stack web applications**
+* Develop **scalable backend APIs**
+* Create **modern, responsive UIs**
+* Integrate **AI & external APIs** into real projects
 
 ---
 
-## 📌 Current Focus
+## Current Focus
 
-* Improving **system design and backend architecture**
-* Building **production-level MERN projects**
-* Contributing to **open source**
+* Deep diving into **AI & API integrations**
+* Improving **system design thinking**
+* Building projects that can turn into **real clients**
+
+---
+
+## Work Style
+
+* Fast execution > overthinking  
+* Build → Fix → Improve loop  
+* Focused on real-world results, not just tutorials  
+
+---
+
+## Goal
+
+* Consistently earning ₹50–60K/month
+* Growing as a freelancer + startup builder
+* Making my family proud
+
+---
+
+## Bold Belief
+
+> The education system doesn’t teach real building.  
+> You learn by creating, breaking, and fixing things.
 
 ---
 
 ## 📫 Contact Me
 
-📧 **Email:** [baibhavsinha.dev@gmail.com](mailto:baibhavsinha.dev@gmail.com)
+**Email:** baibhavsinha.dev@gmail.com(mailto:baibhavsinha.dev@gmail.com)
+**GitHub:** https://github.com/baibhavsinhadev
 
 ---
 
-⭐ *Always learning. Always building.*
+⭐ *I don’t just learn. I build.*
