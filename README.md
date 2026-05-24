@@ -87,7 +87,7 @@ I focus on **fast execution, clean logic, and bug-free builds**.
 
 ## 📫 Contact Me
 
-**Email:** baibhavsinha.dev@gmail.com(mailto:baibhavsinha.dev@gmail.com)
+**Email:** baibhavsinha.dev@gmail.com
 **GitHub:** https://github.com/baibhavsinhadev
 
 ---
