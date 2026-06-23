@@ -1,95 +1,182 @@
-# Hi, I'm Baibhav Sinha
+# Hi, I'm Baibhav Sinha 
 
-**Full Stack Developer (MERN)**
-**Fast Builder | Chaotic but Productive**
-I build custom full-stack web apps for businesses
+### Full Stack Developer (MERN) • Problem Solver • Builder
+
+I build production-ready web applications that solve real business problems.
+
+From secure backend architectures and payment systems to responsive user experiences, I enjoy building complete products from idea to deployment.
+
+Currently focused on creating scalable systems, exploring AI integrations, and turning software skills into real-world impact.
 
 ---
 
 ## About Me
 
-I'm a developer who started with a genuine interest in computers and turned it into building real-world applications.
-I enjoy creating complete systems — from frontend UI to backend logic — not just parts of it.
-I focus on **fast execution, clean logic, and bug-free builds**.
+* Full Stack MERN Developer
+* Building production-oriented applications since 2026
+* Strong focus on backend architecture and system design
+* Interested in startups, software businesses, and scalable products
+* Believer in learning through building, not endless tutorials
 
 ---
 
 ## Tech Stack
 
-**Frontend**
+### Frontend
 
 * React.js
 * Next.js
 * JavaScript
 * HTML5
 * CSS3
+* Tailwind CSS
+* React Router
 
-**Backend**
+### Backend
 
 * Node.js
 * Express.js
 * REST APIs
+* JWT Authentication
+* Cookie Authentication
 
-**Database**
+### Database
 
 * MongoDB
 * Mongoose
 * PostgreSQL
 * Neon
 
-**Tools**
+### Payments & Services
+
+* Stripe
+* Razorpay
+* Cloudinary
+* Nodemailer
+
+### Tools
 
 * Git
 * GitHub
 * VS Code
+* Postman
+* Vercel
 
 ---
 
-## What I Do
+## What I Build
 
-* Build **custom full-stack web applications**
-* Develop **scalable backend APIs**
-* Create **modern, responsive UIs**
-* Integrate **AI & external APIs** into real projects
+### Full Stack Applications
+
+* Ecommerce Platforms
+* Appointment Booking Systems
+* Employee Management Systems
+* Ticket Booking Platforms
+* Custom Business Solutions
+
+### Backend Systems
+
+* Authentication & Authorization
+* Payment Integrations
+* Order Management Systems
+* Refund Workflows
+* REST APIs
+* Secure Production Architectures
+
+---
+
+## Featured Projects
+
+### Prescripto
+
+Production-ready doctor appointment booking platform with:
+
+* Stripe & Razorpay Payments
+* Multi-Role Authentication
+* Admin Dashboard
+* Doctor Dashboard
+* Appointment Management System
+
+### Forever
+
+Full-stack clothing ecommerce platform featuring:
+
+* Stripe & Razorpay Integration
+* Automatic Refund Processing
+* OTP Password Recovery
+* Admin Product Management
+* Order Lifecycle Tracking
+
+### QuickEMS
+
+Employee Management System featuring:
+
+* Attendance Tracking
+* Leave Management
+* Payroll System
+* Automated Workflows
+
+### QuickShow
+
+Movie Ticket Booking Platform featuring:
+
+* Seat Selection System
+* Stripe Payments
+* Event-Driven Architecture
+* Automated Booking Workflows
 
 ---
 
 ## Current Focus
 
-* Deep diving into **AI & API integrations**
-* Improving **system design thinking**
-* Building projects that can turn into **real clients**
+* Advanced Backend Development
+* AI & API Integrations
+* Next.js Ecosystem
+* System Design Fundamentals
+* Real Client Projects
 
 ---
 
-## Work Style
+## Development Philosophy
 
-* Fast execution > overthinking  
-* Build → Fix → Improve loop  
-* Focused on real-world results, not just tutorials  
+```txt
+Build
+↓
+Break
+↓
+Fix
+↓
+Improve
+↓
+Repeat
+```
 
----
-
-## Goal
-
-* Consistently earning ₹50–60K/month
-* Growing as a freelancer + startup builder
-* Making my family proud
-
----
-
-## Bold Belief
-
-> The education system doesn’t teach real building.  
-> You learn by creating, breaking, and fixing things.
+I prefer shipping working products, gathering feedback, and continuously improving rather than spending months chasing perfection.
 
 ---
 
-## 📫 Contact Me
+## Long-Term Vision
 
-**Email:** baibhavsinha.dev@gmail.com
-**GitHub:** https://github.com/baibhavsinhadev
+* Build software that solves meaningful problems
+* Create sustainable digital businesses
+* Grow into a strong software engineer and entrepreneur
+* Build products used by thousands of people
 
 ---
 
-⭐ *I don’t just learn. I build.*
+## Connect With Me
+
+Email:
+[baibhavsinha.dev@gmail.com](mailto:baibhavsinha.dev@gmail.com)
+
+GitHub:
+https://github.com/baibhavsinhadev
+
+Portfolio:
+Coming Soon
+
+---
+
+> Software is not about writing code.
+>
+> It's about solving problems at scale.
